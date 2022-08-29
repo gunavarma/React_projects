@@ -1,0 +1,5 @@
+.App{
+    background-image: url("./components/bgimage/bgminion.jpg");
+    background-size: cover;
+    height: 150vh;
+}
